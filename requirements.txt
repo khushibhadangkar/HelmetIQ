@@ -4,7 +4,7 @@ opencv-python
 easyocr
 flask
 numpy
-Pillow
+Pillow>=12.3.0
 # YOLOv5 requirements
 # Usage: pip install -r requirements.txt
 
