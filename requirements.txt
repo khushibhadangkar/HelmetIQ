@@ -1,5 +1,5 @@
 torch
-torchvision
+torchvision>=0.29.0
 opencv-python
 easyocr
 flask
@@ -20,7 +20,7 @@ requests>=2.32.2
 scipy>=1.4.1
 thop>=0.1.1  # FLOPs computation
 torch>=1.8.0  # see https://pytorch.org/get-started/locally (recommended)
-torchvision>=0.9.0
+torchvision>=0.29.0>=0.9.0
 tqdm>=4.66.3
 ultralytics>=8.2.64  # https://ultralytics.com
 # protobuf<=3.20.1  # https://github.com/ultralytics/yolov5/issues/8012
